@@ -1,0 +1,24 @@
+{
+  "name": "test-driven-development-jest",
+  "version": "1.0.0",
+  "description": "test-driven-development - The Odin Project",
+  "main": "sum-test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tseringz/test-driven-development-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tseringz/test-driven-development-jest/issues"
+  },
+  "homepage": "https://github.com/tseringz/test-driven-development-jest#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.18.10",
+    "jest": "^28.1.3"
+  }
+}
